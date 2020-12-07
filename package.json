@@ -29,13 +29,14 @@
     "@mate-academy/linthtml-config": "0.0.1",
     "@mate-academy/stylelint-config": "0.0.9",
     "concurrently": "^5.3.0",
-    "eslint": "^7.8.1",
+    "eslint": "^7.15.0",
     "eslint-plugin-jest": "^23.20.0",
     "eslint-plugin-node": "^11.1.0",
-    "husky": "^4.3.0",
-    "jest": "^26.4.2",
+    "husky": "^4.3.5",
+    "jest": "^26.6.3",
     "node-sass": "^4.14.1",
     "parcel": "^1.12.4",
-    "stylelint": "^13.7.0"
+    "sass": "^1.30.0",
+    "stylelint": "^13.8.0"
   }
 }
